@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d017858f-e245-4c89-8c0e-0328d0822c39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object_Origented.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataHiding/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/General/ArrayOfObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/General/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/SmartPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="d017858f-e245-4c89-8c0e-0328d0822c39" name="Changes" comment="init commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interfaces/SmartPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/InterfacesExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +41,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayOfObjects">
+  <component name="RunManager" selected="Application.InterfacesExample">
     <configuration name="ArrayOfObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="General.ArrayOfObjects" />
       <module name="Object_Origented" />
@@ -71,6 +61,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="General.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterfacesExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interfaces.InterfacesExample" />
+      <module name="Object_Origented" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InterfacesExample" />
         <item itemvalue="Application.ArrayOfObjects" />
         <item itemvalue="Application.Rectangle" />
       </list>
@@ -107,6 +111,18 @@
       <option name="presentableId" value="Default" />
       <updated>1752492804044</updated>
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1752588517587</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752588517587</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
 </project>

@@ -1,6 +1,8 @@
 package Interfaces;
 interface Member {
     void callBack();
+    int x = 10;
+    int X = 10;
 }
 
 class Store {
@@ -30,9 +32,11 @@ public class Shopping {
         Store s = new Store();
         Customer c1 = new Customer("John");
         Customer c2 = new Customer("Smith");
+        Customer c3 = new Customer("Rex");
 
         s.register(c1);
         s.register(c2);
+        s.register(c3);
 
         s.inviteSal();
     }

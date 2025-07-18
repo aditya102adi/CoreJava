@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d017858f-e245-4c89-8c0e-0328d0822c39" name="Changes" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/src/InnerClass/AnonymousClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InnerClass/NestedInner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/InterfacePractise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Interfaces/Shopping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/Shopping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +45,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Shopping">
-    <configuration name="ArrayOfObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="General.ArrayOfObjects" />
+  <component name="RunManager" selected="Application.AnonymousClass">
+    <configuration name="AnonymousClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InnerClass.AnonymousClass" />
       <module name="Object_Origented" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="General.*" />
+          <option name="PATTERN" value="InnerClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,21 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayOfObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="General.ArrayOfObjects" />
-      <module name="Object_Origented" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="General.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InterfacesExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interfaces.InterfacesExample" />
+    <configuration name="InterfacePractise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interfaces.InterfacePractise" />
       <module name="Object_Origented" />
       <extension name="coverage">
         <pattern>
@@ -81,12 +72,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataHiding.Rectangle" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Object_Origented" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NestedInner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InnerClass.NestedInner" />
       <module name="Object_Origented" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataHiding.*" />
+          <option name="PATTERN" value="InnerClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,7 +92,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shopping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Shopping (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Interfaces.Shopping" />
       <module name="Object_Origented" />
       <extension name="coverage">
@@ -109,10 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Shopping" />
-        <item itemvalue="Application.InterfacesExample" />
-        <item itemvalue="Application.ArrayOfObjects" />
-        <item itemvalue="Application.Rectangle" />
+        <item itemvalue="Application.AnonymousClass" />
+        <item itemvalue="Application.NestedInner" />
+        <item itemvalue="Application.InterfacePractise" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Shopping (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1752590137467</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init commit">
+      <created>1752590626402</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752590626402</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
